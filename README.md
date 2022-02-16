@@ -5,7 +5,7 @@ Horiseon Social Solution Services website
 
 ## Description
 
-Its a one page website about Horiseon Social Solution Services.AS per marketting agencies request code has bee refacted in a way to support search engines and support accessibility.
+Its a one page website about Horiseon Social Solution Services.AS per marketting agencies request code has been refacted in a way to support search engines and support accessibility.Webside included the fixed for one link which wasn't work before.Images are resized to speedup the loading time.
 
 ### Executing program
 
@@ -21,23 +21,4 @@ The code base in the following github link - https://github.com/sreevinithaa/Hom
 Can view the website through this production link -https://sreevinithaa.github.io/HomeWork_1_11_02_2022/Develop/index.html
 
 
-## Help
 
-
-
-## Authors
-
-
-
-## Version History
-
-* 0.2
-    * Refactor by Vinitha
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [Horiseon] License
-
-## Acknowledgments
